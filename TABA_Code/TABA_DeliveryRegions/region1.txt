@@ -1,0 +1,10 @@
+D000001,North,Adam,Delivered
+D000002,North,Bernie,Returned
+D000003,North,Carol,Pending
+D000004,North,David,Delivered
+D000005,North,Elaine,Pending
+D000006,North,Adam,Delivered
+D000007,North,Bernie,Delivered
+D000008,North,Carol,Pending
+D000009,North,David,Returned
+D000010,North,Elaine,Delivered
